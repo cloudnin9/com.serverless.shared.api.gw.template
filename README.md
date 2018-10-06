@@ -1,0 +1,1 @@
+# com.serverless.shared.api.gw.template
